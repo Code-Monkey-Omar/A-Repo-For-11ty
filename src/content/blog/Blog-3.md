@@ -1,6 +1,6 @@
 ---
-title: Canitiem Saxa
-url: canitiem-saxa
+title: Blog 3
+url: Blog-3
 description: Lorem markdownum trabeati dicere deus.
 author: Code Stitch
 date: 2023-06-08T15:28:08.486Z

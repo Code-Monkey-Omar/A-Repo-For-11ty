@@ -1,5 +1,5 @@
 ---
-title: Sucos Creati
+title: Blog 2
 url: sucos-creati
 description: Lorem markdownum Talia. Carinae equis.
 author: Code Stitch

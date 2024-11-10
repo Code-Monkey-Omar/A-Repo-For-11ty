@@ -1,5 +1,5 @@
 ---
-title: Acuti modo
+title: Blog 1
 url: acuti-modo
 description: Lorem markdownum tardantis unam mitissima dissimulator inposuit   corpus sintque tura tremenda, nec coetum.
 author: Code Stitch
